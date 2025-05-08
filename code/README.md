@@ -1,6 +1,6 @@
 Online Judge Local Runner
 
-The local runner takes in the solution ```main.cpp```, and test cases, i.e., ```input``` and ```output```, Compile the cpp code into a binary, and execute it by taking all input and compare against the groundtruth in output. If all test cases are passed, the runner will print 'Accpeted'
+The local runner takes in the solution ```main.cpp```, and test cases, i.e., ```input``` and ```output```, Compile the cpp code into a binary, and execute it by taking all input and comparing against the groundtruth in output. If all test cases are passed, the runner will print 'Accpeted'
 
 
 ## Setup
