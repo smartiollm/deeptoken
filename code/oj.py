@@ -55,4 +55,4 @@ if __name__ == "__main__":
     if check_output(output_file, expected_file):
         print("✅ Accepted")
     else:
-        print("❌ Wrong Answer")
+        print("❌ Error")
