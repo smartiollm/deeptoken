@@ -21,7 +21,7 @@ You should see:
 ## Run the local judge
 
 ```
-python oj.py main.cpp 7300.in 7300.out
+python oj.py tests/7300/main.cpp tests/7300/7300.in tests/7300/7300.out
 ```
 You will see that the main.cpp is compiled and executed, the result is:
 ```
