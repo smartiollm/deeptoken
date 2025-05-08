@@ -1,2 +1,1 @@
-# deeptoken
-Scalable Token Generator for AGI
+# Scalable Token Generator for AGI

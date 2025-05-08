@@ -1,6 +1,6 @@
 Online Judge Local Runner
 
-The local runner takes in the solution ```main.cpp```, and test cases, i.e., ```input``` and ```output```, Compile the cpp code into a binary, and execute it by taking all input and compare against the groundtruth in output. If all test cases are passed, the runner will print 'Accpeted'
+The local runner takes in the solution ```main.cpp```, and test cases, i.e., ```input``` and ```output```, Compile the cpp code into a binary, and execute it by taking all input and comparing against the groundtruth in output. If all test cases are passed, the runner will print 'Accpeted'
 
 
 ## Setup
@@ -21,7 +21,7 @@ You should see:
 ## Run the local judge
 
 ```
-python oj.py main.cpp 7300.in 7300.out
+python oj.py tests/7300/main.cpp tests/7300/7300.in tests/7300/7300.out
 ```
 You will see that the main.cpp is compiled and executed, the result is:
 ```
